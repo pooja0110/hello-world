@@ -1,4 +1,4 @@
-# hello-world
+# pdb bond length calculation using Perl script
 #calculating bond length from pdb file
 open(F,"diala4.sd")or die "file not found";
 open(G,"conntable.txt")or die "file not found";
